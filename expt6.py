@@ -1,0 +1,8 @@
+a=input("enter your name")
+b=input("enter your roll.no")
+c=input("enter your phone number")
+d=input("enter your address")
+print(a)
+print(b)
+print(c)
+print(d)

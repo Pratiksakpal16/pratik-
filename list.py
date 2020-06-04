@@ -1,0 +1,17 @@
+cricket=["kolhi","dhoni","rohit","jadeja","dhawan","panth"]
+print(cricket)
+print(cricket[0:3])
+print(cricket[-1])
+cricket.append(4)
+print(cricket)
+cricket.insert(3,"kl")
+print(cricket)
+cricket2=["pandya","virat","bumrah"]
+cricket.extend(cricket2)
+print(cricket)
+cricket.remove("jadeja")
+print(cricket)
+cricket.pop(6)
+print(cricket)
+list=[]
+print(list)
